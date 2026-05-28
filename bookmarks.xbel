@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4: for Floccus bookmark sync browser extension -->
+<!--- highestId :19: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>clojure</title>
@@ -13,6 +13,51 @@
   <title>jump</title>
   <bookmark href="https://itgit.app.uib.no/dashboard/projects/starred" id="1">
     <title>itgit</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>uib</title>
+  <bookmark href="https://use.mazemap.com/#v=1&amp;campusid=34&amp;zlevel=3&amp;center=5.324751,60.388761&amp;zoom=18&amp;search=hexagon" id="6">
+    <title>Nygårdshøyden midt - MazeMap</title>
+  </bookmark>
+  <bookmark href="https://outlook.office.com/mail/inbox/id/AAQkADA0Y2IyNmQ0LTlmZmQtNDZhMS1hYjllLTVmZGFmNzA0ZjU1YgAQAGPgdXYqKF5BiTcAYA5h9IQ%3D" id="7">
+    <title>Mail - Torstein Leversund - Outlook</title>
+  </bookmark>
+  <bookmark href="https://m365.cloud.microsoft/search/?fromcode=cmmiadtp424&amp;refOrigin=Google&amp;origindomain=Office&amp;auth=2&amp;client-request-id=86b23464-e2cd-44df-b543-6ddfb7150814" id="8">
+    <title>Search | M365 Copilot</title>
+  </bookmark>
+  <bookmark href="https://hjelp.uib.no/tas/public/ssp/d3fed130-0f6c-11e5-a6c0-1697f925ec7b" id="9">
+    <title>Startside - UiBhjelp</title>
+  </bookmark>
+  <bookmark href="https://ntk.app.uib.no/all/" id="10">
+    <title>UiBs tjenestekatalog</title>
+  </bookmark>
+  <bookmark href="https://selvbetjening.dfo.no/sap/bc/ui5_ui5/ui2/ushell/shells/abap/fiorilaunchpad.html?sap-language=NO#TimeEntry-registerWDA?SAP-THEME=SAP_BLUECRYSTAL" id="11">
+    <title>Registrer arbeidstid</title>
+  </bookmark>
+  <bookmark href="https://www.uib.no/foransatte" id="12">
+    <title>For ansatte | Universitetet i Bergen</title>
+  </bookmark>
+  <bookmark href="https://fravar.app.uib.no/" id="13">
+    <title>Fravær :: UiB</title>
+  </bookmark>
+  <bookmark href="https://uib.eu001-rapididentity.com/ui/requests" id="14">
+    <title>Requests | RapidIdentity</title>
+  </bookmark>
+  <bookmark href="https://github.com/open-telemetry/weaver" id="15">
+    <title>GitHub - open-telemetry/weaver: OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions · GitHub</title>
+  </bookmark>
+  <bookmark href="https://mattermost.uio.no/uh-infra/channels/dataops-drift" id="16">
+    <title>DataOPS Drift - UH-infrastruktur UiO Mattermost</title>
+  </bookmark>
+  <bookmark href="https://github.uio.no/orgs/IT-DIA/projects/34/views/2" id="17">
+    <title>Alle planlagte oppgaver · DataOPS Roadmap</title>
+  </bookmark>
+  <bookmark href="https://github.uio.no/orgs/IT-DIA/repositories" id="18">
+    <title>IT-DIA repositories</title>
+  </bookmark>
+  <bookmark href="https://www.uio.no/tjenester/it/sikkerhet/lsis/tillegg/teknisk/logging-og-rettigheter.html" id="19">
+    <title>Logging, rutiner og rettigheter - Universitetet i Oslo</title>
   </bookmark>
 </folder>
 </xbel>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :20: for Floccus bookmark sync browser extension -->
+<!--- highestId :21: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>clojure</title>
@@ -61,6 +61,9 @@
   </bookmark>
   <bookmark href="https://hjelp.uib.no/tas/secure/mango/window/0?t=1779957625630" id="20">
     <title>TOPdesk - Ressurser</title>
+  </bookmark>
+  <bookmark href="https://github.com/igrishaev/deed#supported-types" id="21">
+    <title>igrishaev/deed: Fast, flexible, 0-deps (de)serialization library for Clojure</title>
   </bookmark>
 </folder>
 </xbel>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :22: for Floccus bookmark sync browser extension -->
+<!--- highestId :23: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>clojure</title>
@@ -67,6 +67,9 @@
   </bookmark>
   <bookmark href="https://oppetid.app.uib.no/ssl.php" id="22">
     <title>UiB SSL Checker</title>
+  </bookmark>
+  <bookmark href="https://www.sikresiden.no/forebyggende/sikreinformasjon" id="23">
+    <title>Forebyggende: Sikre informasjon | sikresiden.no</title>
   </bookmark>
 </folder>
 </xbel>
